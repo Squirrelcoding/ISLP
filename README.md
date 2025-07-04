@@ -1,1 +1,1 @@
-just some stuff
+Notebooks for exercises in ISLP
